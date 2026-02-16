@@ -1,0 +1,1 @@
+Site statique prêt pour GitHub Pages. Placez le CONTENU de ce dossier à la racine du repo.
